@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter, Scala
 - 💬 Ask me about Android, Football
 - 📫 How to reach me: [mail](andor201995@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anmol-srivastava-andor)
-- 😊Pronouns : He/His
+- 😊Pronouns : he/him/his
 
 
 ### GitHub Stats
