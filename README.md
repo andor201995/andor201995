@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on AI/ML integeration for SMS/IM's
 - 🌱 I’m currently learning Flutter, Scala
 - 💬 Ask me about Android, Football
-- 📫 How to reach me: [mail](andor201995@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anmol-srivastava-andor)
+- 📫 How to reach me: [mail](mailto:andor201995@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anmol-srivastava-andor)
 - 😊Pronouns : he/him/his
 
 
